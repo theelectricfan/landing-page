@@ -95,7 +95,7 @@ button{
 .card-container{
     display: flex;
     gap: 48px;
-    margin-bottom: 48px;
+    margin-bottom: 64px;
 }
 .card{
     display:flex;
@@ -109,4 +109,28 @@ button{
     width: 150px;
     height: auto;
     border: 4px solid red;
+}
+
+/* Quote section */
+
+.quote-section{
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    padding: 64px 128px;
+}
+
+.quote-text{
+    color:#1f2937;
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    text-align: left;
+}
+
+.quote-author{
+    color:#1f2937;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: right;
 }
