@@ -7,7 +7,7 @@
 }
 .top-section{
     background-color: #1f2937;
-    padding: 8px 128px 128px 128px;
+    padding: 8px 400px 128px 400px;
 }
 body{
     margin: 0px;
@@ -119,7 +119,7 @@ ul{
     background-color: #e5e7eb;
     display: flex;
     flex-direction: column;
-    padding: 64px 196px;
+    padding: 64px 312px;
 }
 
 .quote-text{
@@ -142,11 +142,11 @@ ul{
 
 .blue-section{
     background-color: #3882f6;
-    margin: 64px 128px;
+    margin: 64px 400px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
-    padding: 24px 40px;
+    padding: 24px 48px;
     gap: 12px;
 }
 
