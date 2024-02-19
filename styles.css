@@ -169,3 +169,15 @@ ul{
     border-radius: 6px;
     font-size: 18px;
 }
+
+
+/* footer */
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    padding: 24px;
+    color: #e5e7eb;
+    font-size: 18px;
+}
